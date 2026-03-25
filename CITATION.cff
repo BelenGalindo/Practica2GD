@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Sistema Lotka-Volterra
+title: Caos en sistemas biológicos
 message: >-
   Gemelos Digitales/ Ingeniería Biomédica/ Tecnológico
   Nacional de México
@@ -13,13 +13,13 @@ authors:
     email: l22211755@tectijuana.edu.mx
     name-particle: MARIA
     affiliation: Tecnológico Nacional de México
-repository-code: 'https://github.com/BelenGalindo/Practica1GD.git'
+repository-code: ''
 keywords:
-  - Bioestadísticos
-  - Modelo matemático
-  - Regresión no lineal
-  - Simulaciones numéricas
-  - Sistemas dinámicos no lineales.
+  - Sistemas biológicos
+  - Caos 
+  - Matriz jacobiana
+  - Puntos de equilibrio
+  - EDOs no lineales.
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2026-02-18'
+date-released: '2026-03-24'
