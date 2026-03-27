@@ -35,10 +35,12 @@ Palabras clave: Caos; Conjuntos Compactos Invariantes; Condiciones de Estabilida
 
 ## Actividades a realizar
 1. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
-2. 
-3.
-4.
-...
+2. Calcular y reportar los seis puntos de equilibrio del sistema, incluyendo los equilibrios libres de células patológicas (x* = 0).
+3. Obtener la matriz Jacobiana del sistema y evaluar las condiciones de estabilidad local en los equilibrios de interés, determinando los valores propios λ₁, λ₂, λ₃.
+4. Comparar los métodos numéricos de Euler, Heun y Runge-Kutta (RK4) para resolver el sistema en los cinco escenarios dinámicos: atractor caótico, órbita periódica, ciclo límite interno, ciclo límite externo y convergencia a punto de equilibrio.
+5. Analizar la divergencia y el error entre los tres métodos numéricos para cada conjunto compacto invariante, graficando las diferencias entre soluciones (Euler − Heun, Euler − RK4, Heun − RK4).
+6. Aplicar el tratamiento de inmunoterapia ρᵢ(t) > 0 a cada escenario dinámico y verificar mediante simulación numérica la eliminación de las células patológicas x(t) → 0.
+7. Determinar la condición de estabilidad asintótica local del equilibrio (x*₄, y*₄, z*₄) = (0, 1/b₂, i/d₃) a partir del valor propio crítico λ₁ = r₁ − (a₁₂/b₂) − (a₁₃·i/d₃) < 0.
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
