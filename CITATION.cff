@@ -15,11 +15,11 @@ authors:
     affiliation: Tecnológico Nacional de México
 repository-code: 'https://github.com/BelenGalindo/Practica2GD.git'
 keywords:
-  - Sistemas biológicos
-  - Caos 
-  - Matriz jacobiana
-  - Puntos de equilibrio
-  - EDOs no lineales.
+  - Caos
+  - Conjuntos Compactos Invariantes
+  - Condiciones de Estabilidad
+  - Simulaciones Numéricas
+  - Solución de EDOs
 license: BSD-2-Clause
 version: '1.0'
 date-released: '2026-03-24'
